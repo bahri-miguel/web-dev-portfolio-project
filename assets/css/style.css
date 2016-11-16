@@ -7,3 +7,32 @@ section h3 {
   font-size: 24px;
   font-weight: 600;
 }
+
+header {
+  text-align: center;
+  width: 100%;
+  background-color: firebrick;
+  padding: 10px 0;
+}
+
+
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+ display: inline-block;
+  margin: 10px;
+  color: white
+}
+footer {
+  text-align: left;
+  width: 100%;
+  background-color: firebrick;
+  padding: 10px 0;
+}
+
+footer nav ul li{
+  display: inline-block;
+  margin: 10px;
+  color: white;
+}
